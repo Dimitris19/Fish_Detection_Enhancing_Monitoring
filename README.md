@@ -1,1 +1,1 @@
-In this page visualizations of experiments are presented through the Faster-RCNN and YOLO model for the paper titled 'Unlocking River Secrets: Environmental Flows Meet Object Detection Networks for Enhanced Habitat Monitoring'
+This page presents visualizations of experiments using the Faster R-CNN and YOLO models from the paper titled "Unlocking River Secrets: Environmental Flows Meet Object Detection Networks for Enhanced Habitat Monitoring."
